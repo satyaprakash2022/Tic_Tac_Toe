@@ -36,7 +36,7 @@ iii) Open index.html in your browser.
 
 # File Structure
 
-![str]<img width="393" alt="image" src="https://github.com/user-attachments/assets/56fe2d32-5090-4001-ac12-32542df0a5c4" />
+<img width="393" alt="image" src="https://github.com/user-attachments/assets/56fe2d32-5090-4001-ac12-32542df0a5c4" />
 
 # Usage
 
