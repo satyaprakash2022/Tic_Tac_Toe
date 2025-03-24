@@ -36,12 +36,7 @@ iii) Open index.html in your browser.
 
 # File Structure
 
-tic-tac-toe/
-│── index.html      # Main HTML structure
-│── style.css       # Styling for the game
-│── script.js       # JavaScript game logic
-│── README.md       # Project documentation
-│── assets/         # Images, sounds, and other assets
+![str]<img width="393" alt="image" src="https://github.com/user-attachments/assets/56fe2d32-5090-4001-ac12-32542df0a5c4" />
 
 # Usage
 
@@ -53,7 +48,7 @@ iii) Click the Reset button to restart the game.
 
 # Screenshots
 
-![Alt Text]<img width="959" alt="image" src="https://github.com/user-attachments/assets/e50374b5-6d8f-4bd0-9e58-9b184ecd617f" />
+![Tic Tac Toe]<img width="959" alt="image" src="https://github.com/user-attachments/assets/e50374b5-6d8f-4bd0-9e58-9b184ecd617f" />
 
 
 # Contributing
